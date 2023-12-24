@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ArrayList">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ArrayList/src/arraylist/ArrayList.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgortitmoOrdenamiento/AlgortitmoOrdenamiento.iml" filepath="$PROJECT_DIR$/AlgortitmoOrdenamiento/AlgortitmoOrdenamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Busquedas/Busquedas.iml" filepath="$PROJECT_DIR$/Busquedas/Busquedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Busquedas_1/Busquedas_1.iml" filepath="$PROJECT_DIR$/Busquedas_1/Busquedas_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cola/Cola.iml" filepath="$PROJECT_DIR$/Cola/Cola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploPOO/EjemploPOO.iml" filepath="$PROJECT_DIR$/EjemploPOO/EjemploPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrucutura Datos 1/Estrucutura Datos 1.iml" filepath="$PROJECT_DIR$/Estrucutura Datos 1/Estrucutura Datos 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasCircular/ListasCircular.iml" filepath="$PROJECT_DIR$/ListasCircular/ListasCircular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasDobleEnlace/ListasDobleEnlace.iml" filepath="$PROJECT_DIR$/ListasDobleEnlace/ListasDobleEnlace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrices/Matrices.iml" filepath="$PROJECT_DIR$/Matrices/Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parcial/Parcial.iml" filepath="$PROJECT_DIR$/Parcial/Parcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parcial_Manuel_Melo/Parcial_Manuel_Melo.iml" filepath="$PROJECT_DIR$/Parcial_Manuel_Melo/Parcial_Manuel_Melo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Partidos/Partidos.iml" filepath="$PROJECT_DIR$/Partidos/Partidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pila/Pila.iml" filepath="$PROJECT_DIR$/Pila/Pila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recusividad1/RECURSIVIDAD/RECURSIVIDAD.iml" filepath="$PROJECT_DIR$/recusividad1/RECURSIVIDAD/RECURSIVIDAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursividad/Recursividad.iml" filepath="$PROJECT_DIR$/Recursividad/Recursividad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TallerArreglos/TallerArreglos.iml" filepath="$PROJECT_DIR$/TallerArreglos/TallerArreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vector/Vector.iml" filepath="$PROJECT_DIR$/Vector/Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrices2doperaciones/matrices2doperaciones.iml" filepath="$PROJECT_DIR$/matrices2doperaciones/matrices2doperaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcialprueba/parcialprueba.iml" filepath="$PROJECT_DIR$/parcialprueba/parcialprueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recusividad1/punto_recuperacion_invertir_numero/punto_recuperacion_invertir_numero.iml" filepath="$PROJECT_DIR$/recusividad1/punto_recuperacion_invertir_numero/punto_recuperacion_invertir_numero.iml" />
+    </modules>
+  </component>
+</project>

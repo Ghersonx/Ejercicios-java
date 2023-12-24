@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Arraylist_Objetos">
+  <ClassDiagramComponents>
+    <Class name="Arraylist_Objetos" package="" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="NOMBREFICHERO" type="String" visibility="private" isStatic="true" isFinal="true"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
